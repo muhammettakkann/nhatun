@@ -1,0 +1,7 @@
+>>Navbar
+1-)Ara => içerisinde icon ve metin olacak. Metin sadece md ve üstünde olacak.
+2-)Haritalarda Aç => içerisinde icon ve metin olaca. Metin sadece md ve üstünde olacak.
+3-)Mesaj At => İçerisinde icon ve metin olacak. Metin sadece md ve üstünde olacak.
+4-)Hizmetlerimiz =>içerisinde icon ve metin olacak. Metin sadece md ve üstünde olacak.
+>>
+
